@@ -20,7 +20,7 @@ This software is following MIT Licence.
 
 ### Contributors
 
-- Xingyun Wu - 2018 Aug - Program author
+- Xingyun Wu - 2018 Aug - Original author
 - Siqi Jiang - 2018 Aug - Group member
 - Bella Nie - 2018 Aug - Group member
 
