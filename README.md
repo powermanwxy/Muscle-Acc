@@ -22,6 +22,6 @@ This software is following MIT Licence.
 
 - Xingyun Wu - 2018 Aug - Original author
 - Siqi Jiang - 2018 Aug - Group member
-- Bella Nie - 2018 Aug - Group member
+- Kexin Nie - 2018 Aug - Group member
 
 Thanks to Professor Jianbo Shi@Penn Engineering and PWCC ([Penn Wharton China Center](http://www.baidu.com/link?url=4eHjATcv_95AzIy-5wGkZznwjqAqWsoUccMj_XcMiqQt7MiJZJRrT8r6yFD7ampD)) !
