@@ -1,4 +1,6 @@
 # Muscle-Acc
+![index](https://github.com/powermanwxy/Muscle-Acc/blob/master/doc/muscle-acc.jpg?raw=true)
+
 ### What is this
 
 Using opencv and openpose to blending strong muscle in real time.
